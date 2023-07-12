@@ -1,3 +1,7 @@
+This is an implementation of common data structures and algorithms
+in Go. The list is not comprehensive and only acts as a cheat sheet
+to speed up software development process.
+
 **Data Structures:**
 
 1. Arrays
